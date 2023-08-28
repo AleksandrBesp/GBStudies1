@@ -38,3 +38,4 @@ git config --global user.email ваша почта@exemple.com
 Где __*-m*__ значит сообщение.
  
  
+ 
