@@ -36,5 +36,5 @@ git config --global user.email ваша почта@exemple.com
 *git commit -m "Коментарий изменения данного сохраненя"*
 ```
 Где __*-m*__ значит сообщение.
- 
- 
+
+
